@@ -1,0 +1,13 @@
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverIt Cheat.vbproj.GenerateResource.Cache
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverIt Cheat.vbproj.CoreCompileInputs.cache
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\bin\Debug\GettingOverIt Cheat.exe.config
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\bin\Debug\GettingOverIt Cheat.exe
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\bin\Debug\GettingOverIt Cheat.pdb
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\bin\Debug\GettingOverIt Cheat.xml
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverIt Cheat.exe
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverIt Cheat.xml
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverIt Cheat.pdb
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverItCheat.Form1.resources
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverItCheat.Form2.resources
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverItCheat.Resources.resources
+C:\Users\sites\OneDrive\Repository\GettingOverIt Cheat\WindowsApp1\obj\Debug\GettingOverIt Cheat.vbprojResolveAssemblyReference.cache
